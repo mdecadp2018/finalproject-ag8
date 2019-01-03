@@ -24,7 +24,43 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20190103234331.1" a="E"><vh>Week11</vh>
+<v t="leo.20190103234354.1" a="E"><vh>分支</vh>
+<v t="leo.20190103234414.1"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190103234521.1" a="E"><vh>Week12</vh>
+<v t="leo.20190103234521.2" a="E"><vh>分支</vh>
+<v t="leo.20190103234521.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190103235059.1" a="E"><vh>Week13</vh>
+<v t="leo.20190103235059.2" a="E"><vh>分支</vh>
+<v t="leo.20190103235059.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190103235053.1" a="E"><vh>Week14-16</vh>
+<v t="leo.20190103235053.2" a="E"><vh>分支</vh>
+<v t="leo.20190103235053.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190104000504.1" a="E"><vh>分支</vh>
+<v t="leo.20190104000504.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190103234439.1" a="E"><vh>Week17</vh>
+<v t="leo.20190103234439.2" a="E"><vh>分支</vh>
+<v t="leo.20190103234439.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190104000559.1" a="E"><vh>分支</vh>
+<v t="leo.20190104000559.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190103234440.1" a="E"><vh>Week18</vh>
+<v t="leo.20190103234440.2" a="E"><vh>分支</vh>
+<v t="leo.20190103234440.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -124,17 +160,21 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall AG8網際簡報
 
-### 虎科大機械設計工程系
+### 虎科大機械設計工程系-第八組
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[AG8分組網誌](./../blog/index.html)
 
+[CMSimfly網站](https://mdecadp2018.github.io/finalproject-ag8/content/index.html)
 
+[Github分組網站](https://github.com/mdecadp2018/finalproject-ag8)
+
+[Onshape-AG8](https://cad.onshape.com/documents/5ede166fd406ed585f260849/w/96f43241560633a1bcc825e6/e/800bf194c9929ef53665d7f3)
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -325,6 +365,179 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190103234331.1">&lt;section&gt;
+@others
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103234354.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190103234414.1">## Week11
+
+### 每周進度：
+
+* 使用github邀請組員進入協同。
+
+* 討論主題：機械計時器。
+</t>
+<t tx="leo.20190103234439.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103234439.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103234439.3">## Week 17
+
+### 每周進度：
+
+* 使用Onshape組合零件圖
+</t>
+<t tx="leo.20190103234440.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103234440.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20190103234440.3">## Week 18
+
+### 每周進度：
+
+* 使用V-rep模擬器
+</t>
+<t tx="leo.20190103234521.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103234521.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20190103234521.3">## Week 12
+
+### 每周進度：
+
+* 工作分配：
+
+    40623114 吳信億 繪製、設計
+    
+    40623115 吳隆廷 編輯
+    
+    40623117 楊智傑 繪製、設計
+    
+    40623121 蔡朝旭 繪製、設計
+    
+    40623133 蕭家瀚 繪製、設計
+    
+    40623152 潘季宏 編輯
+</t>
+<t tx="leo.20190103235053.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103235053.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103235053.3">## Week 14-16
+
+### 每周進度：
+
+* 使用Onshape繪製零件
+</t>
+<t tx="leo.20190103235059.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190103235059.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20190103235059.3">## Week 13
+
+### 每周進度：
+
+* 組合零件圖
+</t>
+<t tx="leo.20190104000504.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20190104000504.2">## Week 15
+
+### 開會紀錄：
+
+* 機械計時器的工作內容與分配，問題討論，錶的運作。
+
+* 討論到的問題：
+
+
+    Ｑ：設計齒輪之節徑？
+    Ａ：不須考慮節徑，只需模數與齒數，設計為適當大小。
+    Ｑ：齒輪個數？
+    Ａ：齒輪過多會影響到生產金額，齒輪過少會導致齒數過多而加工困難。
+    Ｑ：帶動元件？
+    Ａ：馬達（步徑馬達）
+</t>
+<t tx="leo.20190104000559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+
+    &lt;/script&gt;
+</t>
+<t tx="leo.20190104000559.2">## Week 17
+
+### 開會紀錄：
+
+* 
 </t>
 </tnodes>
 </leo_file>
