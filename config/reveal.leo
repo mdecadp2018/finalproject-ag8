@@ -25,7 +25,7 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190103234331.1" a="E"><vh>Week11</vh>
-<v t="leo.20190103234354.1"><vh>分支</vh>
+<v t="leo.20190103234354.1" a="E"><vh>分支</vh>
 <v t="leo.20190103234414.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20190107115254.1" a="E"><vh>分支</vh>
@@ -56,6 +56,9 @@
 </v>
 <v t="leo.20190104000559.1" a="E"><vh>分支</vh>
 <v t="leo.20190104000559.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107140037.1" a="E"><vh>分支</vh>
+<v t="leo.20190107140037.2"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20190103234440.1" a="E"><vh>Week18</vh>
@@ -373,13 +376,10 @@ make.start()
 </t>
 <t tx="leo.20190103234331.1">&lt;section&gt;
 @others
-
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20190103234354.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
@@ -396,38 +396,28 @@ make.start()
 @others
 &lt;/section&gt;
 
-&lt;/section&gt;
-
 </t>
 <t tx="leo.20190103234439.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20190103234439.3">## Week 17
-
-### 每周進度：
+&lt;/section&gt;</t>
+<t tx="leo.20190103234439.3">## Week 17每周進度：
 
 * 使用Onshape組合零件圖
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/5ede166fd406ed585f260849/w/96f43241560633a1bcc825e6/s/300x170?t=1546567415222" width="500" height="250" frameborder="0" &gt;&lt;/image&gt;
 </t>
 <t tx="leo.20190103234440.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 
-&lt;/section&gt;
-
 </t>
 <t tx="leo.20190103234440.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20190103234440.3">## Week 18
 
 ### 每周進度：
@@ -438,81 +428,146 @@ make.start()
 @others
 &lt;/section&gt;
 
-&lt;/section&gt;
-
 </t>
 <t tx="leo.20190103234521.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20190103234521.3">## Week 12每周進度：
 
 * 工作分配：
 
     40623114 吳信億 Onshape繪製
-    
+
     40623115 吳隆廷 投影片編輯、組合
-    
+
     40623117 楊智傑 Onshape繪製
-    
+
     40623121 蔡朝旭 Onshape繪製
-    
+
     40623133 蕭家瀚 Onshape繪製
-    
+
     40623152 潘季宏 Word編輯、網誌管理
 </t>
 <t tx="leo.20190103235053.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 
-&lt;/section&gt;
-
 </t>
 <t tx="leo.20190103235053.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20190103235053.3">## Week 14-16
 
 ### 每周進度：
 
 * 使用Onshape繪製零件
-</t>
+
+----
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/6ed7681b5cc3b74b976739a0/w/6647e4f575b3ee7f95c5c95c/s/300x170?t=1546252797866" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/d517ee7dbb76da64ad97dd83/w/2a51dc037cdc8c84e78e78fa/s/300x170?t=1546838867969" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/742468ad7e0a98d451e4e947/w/b69282ef45ac73db388e2cde/s/300x170?t=1546838876422" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/ff25c69389f4d770e90f553e/w/919d8a055117d0e84f518890/s/300x170?t=1546838886066" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/973295582fa8d882de7082a5/w/3ca53f76fbded95208e9e57f/s/300x170?t=1546838895901" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/43c96eddb086588f223f4179/w/4cdd8d0fd6e4136fcfe99470/s/300x170?t=1546838905084" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/19bf51ccfdfd21d927930421/w/367302330160991a749910bf/s/300x170?t=1545962770594" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/2a3b5374c53290150476e8bc/w/9ba40c9df7c4309b02908d10/s/300x170?t=1546445177587" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/c194294ddb70506ad655df7d/w/a101527527fb24ee318d0766/s/300x170?t=1546838903154" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/29bccdfd829d85ac9394c3ef/w/8daff85c36f18030a93b2874/s/300x170?t=1545965155185" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/62e5c63928d775f1f0193237/w/bb2c7d69cbba8a95b591f978/s/300x170?t=1545963078864" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/013e48ec27a448f399842fbb/w/b750f8dcc50171be4a5d0c13/s/300x170?t=1546838620653" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/b6917ebb4ee1236676b046b6/w/dfb11de853c40a6ffb64d31a/s/300x170?t=1546838710064" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/b3503f7229e1ff43d9c40050/w/50456c85499932938acb97a2/s/300x170?t=1546421886476" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/89ad35b0fabe3d8d4ff34c65/w/f0de7d37ae08083378ab1069/s/300x170?t=1546422369073" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/437d7bde31eacbff74248279/w/2ff3057a3c7eca659ad5a784/s/300x170?t=1545920798319" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/7fc4e202b394d57912b5a617/w/b2636e44356760a61a29c5a3/s/300x170?t=1546838789829" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/bd61cd4e391217d5ec0fdcbc/w/01502f2266a87fe17d467bd6/s/300x170?t=1546838617370" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/b862451169d059adc84c2921/w/d4d4444f43d9a5bb8a6a3f9f/s/300x170?t=1545921162177" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/40334c892821d8c304e6dbe9/w/1e74f80128b2faa14fca8261/s/300x170?t=1546838693087" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/6b56fb6e1195693ff0d96198/w/ed05b43493205e94979fc833/s/300x170?t=1545921937601" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/ad67587626135df96361231c/w/9ace2eba7ef31c0004b2f8fe/s/300x170?t=1546514115028" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/cf870160b17b91fe9d3247e9/w/f8f8c3a62dba9db45c43bc8b/s/300x170?t=1546838756848" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/5ada747c746c8288901488df/w/5d887cce2f01f33f01473a63/s/300x170?t=1546838732227" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/66a730acdf4b60eed0a6c4bb/w/9f0033af8dc6b47df50710d8/s/300x170?t=1546838800303" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/7e144f4f77af677c59608c31/w/3c16c86fc56eb1f0ed30f783/s/300x170?t=1545921102624" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/27a93d3d89cbf5cda2e6869a/w/7a75bd0dc677fee11fd9eff8/s/300x170?t=1545921020342" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/fda26a50819480356d7b71a2/w/df85fe895a5b8a25d3cb739c/s/300x170?t=1546838721643" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/0eb60923aabca42d9ccc9d7b/w/f62f078e40d815716cc3e6d9/s/300x170?t=1546838744453" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/bb71827f8e9a48c0ecf53507/w/f8193de9f4e5090e2c1b5c96/s/300x170?t=1545921694547" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/1108e2fc6efcd2b74955fddf/w/c6affd91ee1ec5bbe00901e0/s/300x170?t=1546838810556" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/1151202d68750f78f4a8319e/w/3bb4baadecb774b6ccc6968f/s/300x170?t=1546838819107" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/d59bb0424b10fa35965e0ca2/w/4a199c978d65653dc82cf939/s/300x170?t=1546838829906" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/8bbf8243f8548bd1e4e2a584/w/08b990bc14fb9e456a45b73c/s/300x170?t=1546838837793" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/1e330eb1f8431c84979546bd/w/47beeec397141010a585106b/s/300x170?t=1546838958372" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/f88bdfe2d8ffbf5fc956cbed/w/cb52cecfa6750d2e26c49ae0/s/300x170?t=1546061462268" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/a2cc77aa356816d026dc71be/w/88ca1febf58c540d479e64ad/s/300x170?t=1546508560051" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/40751f2ed81738c012329ed3/w/f9ee02da776e7ae97fd08991/s/300x170?t=1546424403044" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+(使用滑鼠右鍵&gt;[在新分頁開啟圖片]可將圖放大)</t>
 <t tx="leo.20190103235059.1">&lt;section&gt;
 @others
 &lt;/section&gt;
-
-&lt;/section&gt;
-
 </t>
 <t tx="leo.20190103235059.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
-<t tx="leo.20190103235059.3">## Week 13
+&lt;/section&gt;</t>
+<t tx="leo.20190103235059.3">## Week 13每周進度：
 
-### 每周進度：
+* 參考網路工程圖
 
-* 組合零件圖
+* [參考機械計時器PDF](http://www.woodenclocks.co.uk/Clock1.pdf)
+
+* 參考實體圖(下圖)
+&lt;image src="https://mdecadp2018.github.io/finalproject-ag8/images/S__14745610.jpg" width="320" height="256" frameborder="0" &gt;&lt;/image&gt;
+
 </t>
 <t tx="leo.20190104000504.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20190104000504.2">## Week 15
 
 ### 開會紀錄：
@@ -531,12 +586,28 @@ make.start()
 </t>
 <t tx="leo.20190104000559.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
-
     &lt;/script&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20190104000559.2">## Week 17
+<t tx="leo.20190104000559.2">## Onshape模擬
+
+&lt;iframe src="https://www.youtube.com/watch?v=GOXOV0nCYeI&amp;feature=youtu.be" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;</t>
+<t tx="leo.20190107115254.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190107115255.1">## 機械計時器介紹
+
+&lt;iframe src="https://www.youtube.com/watch?v=ir6KkKH0LJw&amp;feature=youtu.be" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190107140037.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190107140037.2">## Week 17
 
 ### 開會紀錄：
 
@@ -546,16 +617,6 @@ make.start()
 * WORD及投影片內容 : 討論要放置什麼內容。
 
 * 現在有PDF(每周進度)、Onshape(組合圖已組完)、V-rep(模擬器)、CMSimfly(每周新增內容)
-</t>
-<t tx="leo.20190107115254.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20190107115255.1">## 機械計時器介紹
-
-&lt;iframe src="https://www.youtube.com/watch?v=ir6KkKH0LJw&amp;feature=youtu.be" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
