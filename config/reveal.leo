@@ -399,7 +399,9 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190103234439.3">## Week 17每周進度：
 
 * 使用Onshape組合零件圖
@@ -415,7 +417,9 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190103234440.3">### Week 18每周進度：
 
 * 使用V-rep模擬器
@@ -429,7 +433,9 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190103234521.3">## Week 12每周進度：
 
 * 工作分配：
@@ -535,9 +541,22 @@ make.start()
 &lt;image src="https://cad.onshape.com/api/thumbnails/d/f88bdfe2d8ffbf5fc956cbed/w/cb52cecfa6750d2e26c49ae0/s/300x170?t=1546061462268" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
 
 &lt;image src="https://cad.onshape.com/api/thumbnails/d/a2cc77aa356816d026dc71be/w/88ca1febf58c540d479e64ad/s/300x170?t=1546508560051" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
 &lt;image src="https://cad.onshape.com/api/thumbnails/d/40751f2ed81738c012329ed3/w/f9ee02da776e7ae97fd08991/s/300x170?t=1546424403044" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
 
-(使用滑鼠右鍵&gt;[在新分頁開啟圖片]可將圖放大)</t>
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/b6ac78fc31318369a78d26f6/w/9c651d69fda17bcfb27f6d29/s/300x170?t=1546410442916" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/64d3a847e2ae10b062b1db59/w/07a71848144d74c4b172554e/s/300x170?t=1546859017512" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/a2cc77aa356816d026dc71be/w/88ca1febf58c540d479e64ad/s/300x170?t=1546859033179" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/8c1f446666c2f7718b478cef/w/1bf6f13a575ecedc8acd8085/s/300x170?t=1546859034722" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+&lt;image src="https://cad.onshape.com/api/thumbnails/d/0780aa029ed030b79fced66e/w/3e93b86ed2bd95126ed42fed/s/300x170?t=1546859344149" width="50" height="50" frameborder="0" &gt;&lt;/image&gt;
+
+(使用滑鼠右鍵&gt;[在新分頁開啟圖片]可將圖放大)
+
+</t>
 <t tx="leo.20190103235059.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -546,7 +565,9 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190103235059.3">## Week 13每周進度：
 
 * 參考網路工程圖
@@ -561,7 +582,9 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190104000504.2">### Week 15開會紀錄：
 
 * 機械計時器的工作內容與分配、問題討論、錶的運作。
@@ -584,21 +607,27 @@ make.start()
 </t>
 <t tx="leo.20190104000559.2">## Onshape模擬
 
-&lt;iframe src="https://www.youtube.com/watch?v=GOXOV0nCYeI&amp;feature=youtu.be" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://www.youtube.com/embed/GOXOV0nCYeI" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190107115254.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107115255.1">## 機械計時器介紹
 
-&lt;iframe src="https://www.youtube.com/watch?v=ir6KkKH0LJw&amp;feature=youtu.be" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
+&lt;iframe src="https://www.youtube.com/embed/ir6KkKH0LJw" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20190107140037.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20190107140037.2">### Week 17開會紀錄：
 
 * 大綱：組合件問題、word內容 、投影片內容。
