@@ -384,9 +384,7 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20190103234414.1">## Week11
-
-### 每周進度：
+<t tx="leo.20190103234414.1">### Week11每周進度：
 
 * 使用github邀請組員進入協同。
 
@@ -418,9 +416,7 @@ make.start()
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20190103234440.3">## Week 18
-
-### 每周進度：
+<t tx="leo.20190103234440.3">### Week 18每周進度：
 
 * 使用V-rep模擬器
 </t>
@@ -461,9 +457,7 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20190103235053.3">## Week 14-16
-
-### 每周進度：
+<t tx="leo.20190103235053.3">### Week 14-16每周進度：
 
 * 使用Onshape繪製零件
 
@@ -568,11 +562,9 @@ make.start()
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20190104000504.2">## Week 15
+<t tx="leo.20190104000504.2">### Week 15開會紀錄：
 
-### 開會紀錄：
-
-* 機械計時器的工作內容與分配，問題討論，錶的運作。
+* 機械計時器的工作內容與分配、問題討論、錶的運作。
 
 * 討論到的問題：
 
@@ -607,9 +599,7 @@ make.start()
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20190107140037.2">## Week 17
-
-### 開會紀錄：
+<t tx="leo.20190107140037.2">### Week 17開會紀錄：
 
 * 大綱：組合件問題、word內容 、投影片內容。
 
