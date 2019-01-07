@@ -25,8 +25,11 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20190103234331.1" a="E"><vh>Week11</vh>
-<v t="leo.20190103234354.1" a="E"><vh>分支</vh>
+<v t="leo.20190103234354.1"><vh>分支</vh>
 <v t="leo.20190103234414.1"><vh>內容</vh></v>
+</v>
+<v t="leo.20190107115254.1" a="E"><vh>分支</vh>
+<v t="leo.20190107115255.1"><vh>內容</vh></v>
 </v>
 </v>
 <v t="leo.20190103234521.1" a="E"><vh>Week12</vh>
@@ -63,7 +66,7 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -162,7 +165,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2018Fall AG8網際簡報
 
-### 虎科大機械設計工程系-第八組
+### 虎科大機械設計工程系
+
+### 機械計時器
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -443,23 +448,21 @@ make.start()
 
     &lt;/script&gt;
 </t>
-<t tx="leo.20190103234521.3">## Week 12
-
-### 每周進度：
+<t tx="leo.20190103234521.3">## Week 12每周進度：
 
 * 工作分配：
 
-    40623114 吳信億 繪製、設計
+    40623114 吳信億 Onshape繪製
     
-    40623115 吳隆廷 編輯
+    40623115 吳隆廷 投影片編輯、組合
     
-    40623117 楊智傑 繪製、設計
+    40623117 楊智傑 Onshape繪製
     
-    40623121 蔡朝旭 繪製、設計
+    40623121 蔡朝旭 Onshape繪製
     
-    40623133 蕭家瀚 繪製、設計
+    40623133 蕭家瀚 Onshape繪製
     
-    40623152 潘季宏 編輯
+    40623152 潘季宏 Word編輯、網誌管理
 </t>
 <t tx="leo.20190103235053.1">&lt;section&gt;
 @others
@@ -537,7 +540,22 @@ make.start()
 
 ### 開會紀錄：
 
-* 
+* 大綱：組合件問題、word內容 、投影片內容。
+
+* 組合件問題 : 有些因工程圖問題配合不起來。
+* WORD及投影片內容 : 討論要放置什麼內容。
+
+* 現在有PDF(每周進度)、Onshape(組合圖已組完)、V-rep(模擬器)、CMSimfly(每周新增內容)
+</t>
+<t tx="leo.20190107115254.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20190107115255.1">## 機械計時器介紹
+
+&lt;iframe src="https://www.youtube.com/watch?v=ir6KkKH0LJw&amp;feature=youtu.be" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
